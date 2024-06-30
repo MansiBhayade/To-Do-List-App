@@ -1,4 +1,4 @@
-# To-Do List Application ( App name is Go-Aplha-Task)
+# To-Do List Application 
 
 ## Overview
 
@@ -20,13 +20,12 @@ This Android application allows users to manage their tasks efficiently by provi
 
 ## User Interface Design
 
-<img src="Images/main_screen.jpg"/>
-<img src="Images/add.jpg"/>
-<img src="Images/edit.jpg"/>
-<img src="Images/delete.jpg"/>
-<img src="Images/task_completed.jpg"/>
+<img src="Images/main_screen.jpg" height='auto' width='270'/>
+<img src="Images/add.jpg" height='auto' width='270'/>
+<img src="Images/edit.jpg" height='auto' width='270'/>
+<img src="Images/delete.jpg" height='auto' width='270'/>
+<img src="Images/task_completed.jpg" height='auto' width='270'/>
+
+Contributions and feedback are welcome.
 
 
-## Additional Notes
-
-- This project was completed as part of an assignment.
