@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Go-Alpha-Task</string>
+    <string name="save">Save</string>
+    <string name="new_task">New Task</string>
+    <string name="cancel">Cancel</string>
+    <string name="tasks">Tasks</string>
+    <string name="delte">Delete</string>
+    <string name="your_task_list">Your Task List</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="no_task">No tasks added yet</string>
+    <string name="your_task">Your Task</string>
+    <string name="done">Done</string>
+</resources>
