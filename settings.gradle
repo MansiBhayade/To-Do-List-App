@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "goalphatask"
+rootProject.name = "todolist"
 include ':app'

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Go-Alpha-Task</string>
+    <string name="app_name">To-Do List App</string>
     <string name="save">Save</string>
     <string name="new_task">New Task</string>
     <string name="cancel">Cancel</string>
